@@ -24,5 +24,3 @@ Here are some ideas to get you started:
 </div>
 
 ##
-
-![Snake Animation](https://github.com/0xPurpl3john/0xPurpl3john/blob/output/github-contribution-grid-snake.svg)
